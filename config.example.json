@@ -3,6 +3,9 @@
   "password": "YOUR_INSTAGRAM_PASSWORD",
   "target_post": "POST_SHORTCODE_HERE",
   "proxy": null,
+  "music_source": null,
+  "music_volume": 0.5,
+  "music_start": 0,
   "tagged_users": [
     "user1",
     "user2",
@@ -23,6 +26,26 @@
     "user17",
     "user18",
     "user19",
-    "user20"
+    "user20",
+    "user21",
+    "user22",
+    "user23",
+    "user24",
+    "user25",
+    "user26",
+    "user27",
+    "user28",
+    "user29",
+    "user30",
+    "user31",
+    "user32",
+    "user33",
+    "user34",
+    "user35",
+    "user36",
+    "user37",
+    "user38",
+    "user39",
+    "user40"
   ]
 }
